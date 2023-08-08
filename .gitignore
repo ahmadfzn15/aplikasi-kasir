@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+
+# Local config
+.config/
+
+# Visual Studio Code specific
+.vscode/
+
+# Solution file
+*.sln
