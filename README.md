@@ -32,6 +32,6 @@ Aplikasi Kasir Konsol berlisensi di bawah [MIT License](LICENSE).
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran tentang aplikasi ini, silakan hubungi kami melalui email di example@example.com atau ikuti kami di Twitter [@example](https://twitter.com/example).
+Jika Anda memiliki pertanyaan atau saran tentang aplikasi ini, silakan hubungi kami melalui email di ahmadfzn2005@gmail.com.
 
 Terima kasih telah menggunakan Aplikasi Kasir Konsol! Kami berharap aplikasi ini membantu Anda memahami dasar-dasar pemrograman C# dan mengembangkan keterampilan Anda dalam membangun aplikasi konsol.
